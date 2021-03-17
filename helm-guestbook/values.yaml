@@ -41,7 +41,7 @@ resources: {}
   #  memory: 128Mi
 
 nodeSelector:
-  nodeRole: nodes
+  nodegroup: nodes
 
 tolerations: []
 
